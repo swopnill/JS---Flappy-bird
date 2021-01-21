@@ -1,4 +1,4 @@
-var canvas = document.getElementById("bird");
+var canvas = document.getElementById("flappy-bird");
 canvas.width = 320;
 canvas.height = 480;
 var c = canvas.getContext("2d");

@@ -108,19 +108,6 @@ const bird = {
 };
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // for generating pipes 
 
 const pipes = {
